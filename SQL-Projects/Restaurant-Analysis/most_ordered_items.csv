@@ -1,0 +1,34 @@
+item_name,num_purchases,category
+Hamburger,622,American
+Edamame,620,Asian
+"Korean Beef Bowl",588,Asian
+Cheeseburger,583,American
+"French Fries",571,American
+"Tofu Pad Thai",562,Asian
+"Steak Torta",489,Mexican
+"Spaghetti & Meatballs",470,Italian
+"Mac & Cheese",463,American
+"Chips & Salsa",461,Mexican
+"Orange Chicken",456,Asian
+"Chicken Burrito",455,Mexican
+"Eggplant Parmesan",420,Italian
+"Chicken Torta",379,Mexican
+Spaghetti,367,Italian
+"Chicken Parmesan",364,Italian
+"Pork Ramen",360,Asian
+"Mushroom Ravioli",359,Italian
+"California Roll",355,Asian
+"Steak Burrito",354,Mexican
+"Salmon Roll",324,Asian
+"Meat Lasagna",273,Italian
+"Hot Dog",257,American
+"Fettuccine Alfredo",249,Italian
+"Shrimp Scampi",239,Italian
+"Veggie Burger",238,American
+"Chips & Guacamole",237,Mexican
+"Cheese Quesadillas",233,Mexican
+"Steak Tacos",214,Mexican
+"Cheese Lasagna",207,Italian
+Potstickers,205,Asian
+NULL,137,NULL
+"Chicken Tacos",123,Mexican
