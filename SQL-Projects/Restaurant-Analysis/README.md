@@ -27,6 +27,7 @@ I wrote queries to answer:
 
 ### Featured Query: Highest Revenue Orders
 This query joins the menu and order tables to find the top 5 spenders.
+
 ` ` `
 sql
 SELECT order_id, SUM(price) AS total_spent
@@ -37,6 +38,7 @@ GROUP BY order_id
 ORDER BY total_spent DESC 
 LIMIT 5;
 ` ` `
+
 ![Query Results](./results.png)
 
 ## Business Recommendations
