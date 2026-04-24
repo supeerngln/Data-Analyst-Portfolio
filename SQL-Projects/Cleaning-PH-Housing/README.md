@@ -32,6 +32,8 @@ SET
     brgy_clean = TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(location, ',', -2), ',', 1))
 WHERE location LIKE '%,%';
 ```
+![Query Results](./clean_location.png)
+
 ### Key Results
 * **Inventory Integrity:** Removed 74 duplicates and 5 incomplete records.
 * **Geographic Accuracy:** Standardized names for 48 cities, fixing character encoding errors (e.g. Parañaque and Las Piñas).
