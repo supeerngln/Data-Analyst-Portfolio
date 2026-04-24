@@ -27,8 +27,8 @@ I wrote queries to answer:
 
 ### Featured Query: Highest Revenue Orders
 This query joins the menu and order tables to find the top 5 spenders.
-
-` ` `sql
+` ` `
+sql
 SELECT order_id, SUM(price) AS total_spent
 FROM order_details od
 LEFT JOIN menu_items mi
