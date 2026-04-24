@@ -38,4 +38,8 @@ WHERE location LIKE '%,%';
 * **Analysis Ready:** It is already optimized for price-per-sqm calculations and geographical heat-mapping.
 
 ### Business Recommendations
+Based on the data,
 
+* **Data Input Guardrails:** The `Floor Area` should be mandatory to avoid unusable listings.
+* **Segmented Analysis:** "Landed" properties and "Condominiums" should be benchmarked separately, as their price differs significantly in urban areas.
+* **Regional Growth:** Targeted marketing analysis should focus on high-inventory clusters identified in Rizal and Cavite.
