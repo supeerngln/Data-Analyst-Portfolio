@@ -1,6 +1,7 @@
 # Subscription Churn and Revenue Leakage Analysis 
 
-## Objective The goal of this project was to analyze customer retention for a subscription-based service and identify the primary drivers of churn. I performed data cleaning to clear system anomalies and conducted a deep dive into revenue impact, plan performance, and user behavior.
+## Objective 
+The goal of this project was to analyze customer retention for a subscription-based service and identify the primary drivers of churn. I performed data cleaning to clear system anomalies and conducted a deep dive into revenue impact, plan performance, and user behavior.
 
 ## Project Summary
 This project identifies a critical **56.8% Revenue Churn Rate** for a subscription-based service. By auditing 2,691 user records, I identified that is not driven by pricing or lack of loyalty, but by high-frictional technical reasons.
@@ -36,9 +37,9 @@ GROUP BY plan_type;
 
 ## Phase 3: Diagnostic Phase
 Comparing the users that "Stayed" vs "Left" groups revealed counter-intuitive behaviours that challenges the typical churn assumptions.
-* **Activity Is Not Equal Retention:** Churned users remain highly active **(12.3 hrs/week)** until the point of exit.
-* **Loyalty Is Not Equal To Protection:** Average tenure for both groups is **18.5 months**. Long-term users are not more resilient to churn that new ones.
-* **Friction is the Driver:** Churned users averaged significantly higher **Payment Failures = 2.80** and **Support Tickets = 4.26**.
+* Churned users remain highly active **(12.3 hrs/week)** until the point of exit.
+* Average tenure for both groups is **18.5 months**. Long-term users are not more resilient to churn that new ones.
+* Churned users averaged significantly higher **Payment Failures = 2.80** and **Support Tickets = 4.26**.
 
 ## Phase 4: Risk Identification 
 I segmented the remaining **1,163 active users** to identify the "Ticking Time Bombs" in the current revenue stream.
