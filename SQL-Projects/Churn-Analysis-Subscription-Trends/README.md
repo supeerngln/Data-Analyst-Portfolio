@@ -16,8 +16,8 @@ Before performing the analysis, I did a data audit to ensure the reliability of 
 
 ## Phase 2: Financial Plan and Plan Performance
 I calculated the **Monthly Recurring Revenue (MRR)** to quantify the business crisis.
-* **Revenue Leakage:** The business loses **662,672** (Churn = Yes) compared to **502,737** retained.
-* **Tier Neutrality:** Churn rates are nearly identical across all plans, which proves that the issue is not the **pricing**, but a core platform experience issue.
+* The business loses **662,672** (Churn = Yes) compared to **502,737** retained.
+*  Churn rates are nearly identical across all plans, which proves that the issue is not the **pricing**, but a core platform experience issue.
 
 ```
 sql
