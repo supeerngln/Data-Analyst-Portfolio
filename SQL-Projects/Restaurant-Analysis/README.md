@@ -16,14 +16,14 @@ I wrote queries to answer:
 * What categories are more popular among high-spenders?
 
 ## Key Insights
-* **Top Cuisine:** Italian Food is the most frequent category among the highest-spending customers.
-* **Order Volume:** Identified orders with over 12 items, highlighting potential group dining trends.
-* **Pricing Strategy:** While the menu is diverse, the Italian category holds the highest average dish price, contributing significantly to the revenue.
+* Italian Food is the most frequent category among the highest-spending customers.
+* Identified orders with over 12 items, highlighting potential group dining trends.
+* While the menu is diverse, the Italian category holds the highest average dish price, contributing significantly to the revenue.
 
 ## SQL Skills Applied
-* **Multi-table Joins:** Merging `menu_items` and `order_details`.
-* **Subqueries:** Used to calculate counts of orders with specific item volumes.
-* **Aggregation & Filtering:** Using `SUM()`, `AVG()`, and `HAVING()` to isolate high-value data.
+* Merging `menu_items` and `order_details`.
+* Used to calculate counts of orders with specific item volumes.
+* Using `SUM()`, `AVG()`, and `HAVING()` to isolate high-value data.
 
 ### Featured Query: Highest Revenue Orders
 This query joins the menu and order tables to find the top 5 spenders.
