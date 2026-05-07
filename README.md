@@ -3,7 +3,7 @@ Welcome to my portfolio! I am a Computer Science graduate from the University of
 This repository showcases my technical skills across the data lifecycle, from cleaning and querying to visualization.
 ## Tech Stack
 * **SQL:** MySQL Workbench (Data Wrangling, Joins, Aggregations)
-* **Excel:**
+* **Excel:** Power Query, Pivot Tables, Interactive Dashboards, KPI Tracking
 * **Python:**
 * **Tableau:**
 * **Power BI:**
@@ -24,6 +24,6 @@ This repository showcases my technical skills across the data lifecycle, from cl
 * **[Philippine Typhoon Impact Analysis](./Excel-Projects/PH-Typhoon-Analysis/)**
     * Analyzed historical weather data to visualize frequency and regional impacts across the Philippines.
     * *Tools:* Excel Power Query, Pivot Charts.
-* **[Social Media Sentiment & Engagement](./Excel-Projects/Social-Media-Sentiment-&-Engagement-Analysis/)**
+* **[Social Media Sentiment & Engagement](./Excel-Projects/Social-Media-Sentiment-&-Engagement-Performance/)**
     * Processed engagement metrics and sentiment scores to evaluate brand performance and audience perception.
     * *Tools:* Excel Dashboards, Python (Sentiment Analysis).
