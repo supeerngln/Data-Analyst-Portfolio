@@ -1,5 +1,8 @@
 # Social Media Sentiment & Engagement Analysis
 
+## Project Link
+https://upsystem-my.sharepoint.com/:x:/g/personal/emanuran_outlook_up_edu_ph/IQDLLTsJS2YUTp7cBz7YZM7tASmqbpPzCrp4xnnrH0wA48c?e=43MSMK
+
 ## Project Overview
 This project provides a comprehensive analysis of over 700 social media posts and interactions across Instagram, Twitter, and Facebook (2010-2023). The primary objective of this analysis was to uncover how user sentiment correlates with engagement metrics and to identify peak activity windows to optimize content strategy.
 
