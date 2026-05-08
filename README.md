@@ -4,9 +4,9 @@ This repository showcases my technical skills across the data lifecycle, from cl
 ## Tech Stack
 * **SQL:** MySQL Workbench (Data Wrangling, Joins, Aggregations)
 * **Excel:** Power Query, Pivot Tables, Interactive Dashboards, KPI Tracking
-* **Python:**
 * **Tableau:**
 * **Power BI:**
+* **Python:**
 
 ## Project Gallery
 ### SQL Analysis
