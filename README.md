@@ -26,4 +26,4 @@ This repository showcases my technical skills across the data lifecycle, from cl
     * *Tools:* Excel Power Query, Pivot Charts.
 * **[Social Media Sentiment & Engagement](./Excel-Projects/Social-Media-Sentiment-&-Engagement-Performance/)**
     * Processed engagement metrics and sentiment scores to evaluate brand performance and audience perception.
-    * *Tools:* Excel Dashboards, Python (Sentiment Analysis).
+    * *Tools:* Excel Power Query, Pivot Charts, and Excel Dashboards.
