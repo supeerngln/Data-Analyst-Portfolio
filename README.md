@@ -2,11 +2,10 @@
 Welcome to my portfolio! I am a Computer Science graduate from the University of the Philippines and an aspiring Data Analyst.
 This repository showcases my technical skills across the data lifecycle, from cleaning and querying to visualization.
 ## Tech Stack
-* **SQL:** MySQL Workbench (Data Wrangling, Joins, Aggregations)
-* **Excel:** Power Query, Pivot Tables, Interactive Dashboards, KPI Tracking
-* **Tableau:**
-* **Power BI:**
-* **Python:**
+* **SQL** 
+* **Excel** 
+* **Tableau**
+* **Python**
 
 ## Project Gallery
 ### SQL Analysis
