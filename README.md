@@ -39,3 +39,14 @@ Welcome to my portfolio! I am a Computer Science graduate from the University of
 * **[Philippine Typhoon Impact Analysis](./Excel-Projects/PH-Typhoon-Analysis/)**
   * Analyzed historical weather and disaster data to visualize frequency and regional impacts across the Philippines.
   * *Tools:* Excel Power Query, Pivot Charts
+ 
+ ---
+ ---
+
+## Let's Connect
+
+I am actively looking for opportunities as a Data Analyst. Feel free to reach out if you'd like to chat or collaborate!
+
+* **Email:** byengelene25@gmail.com
+* **Phone:** +63 993 751 5808
+* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/enegelenanuran)
