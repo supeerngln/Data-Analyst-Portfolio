@@ -49,4 +49,4 @@ I am actively looking for opportunities as a Data Analyst. Feel free to reach ou
 
 * **Email:** byengelene25@gmail.com
 * **Phone:** +63 993 751 5808
-* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/enegelenanuran)
+* **LinkedIn:** [(https://linkedin.com/in/enegelenanuran)](https://www.linkedin.com/in/engeleneanuran/)
